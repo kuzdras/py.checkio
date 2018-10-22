@@ -1,5 +1,5 @@
 # py.checkio
 My solutions for py.CheckiO.org tasks.
 
-All tasks come from https://py.checkio.org
+All tasks come from https://py.checkio.org /n
 At beginning of each solution I would put link to the task and quote it's description.
